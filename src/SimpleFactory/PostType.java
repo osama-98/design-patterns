@@ -1,4 +1,4 @@
-package SimpleFactory.Modules;
+package SimpleFactory;
 
 public final class PostType {
     public static final String Blog     = "blog";

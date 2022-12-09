@@ -57,6 +57,4 @@ public abstract class Post {
     public void setPublishedOn(LocalDateTime publishedOn) {
         this.publishedOn = publishedOn;
     }
-
-
 }

@@ -26,6 +26,4 @@ public class BlogPost extends Post {
     public void setTags(String[] tags) {
         this.tags = tags;
     }
-
-
 }

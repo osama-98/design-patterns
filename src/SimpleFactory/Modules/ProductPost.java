@@ -26,6 +26,4 @@ public class ProductPost extends Post {
     public void setName(String name) {
         this.name = name;
     }
-
-
 }

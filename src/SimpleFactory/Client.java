@@ -1,7 +1,5 @@
 package SimpleFactory;
 
-import SimpleFactory.Modules.PostType;
-
 public class Client {
     public static void main(String[] args) {
         // Blog
