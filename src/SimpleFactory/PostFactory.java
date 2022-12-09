@@ -9,9 +9,9 @@ import SimpleFactory.Modules.*;
 public class PostFactory {
     public static Post createPost(String type) {
         return switch (type.toLowerCase()) {
-            case "blog" -> new BlogPost();
-            case "product" -> new ProductPost();
-            case "news" -> new NewsPost();
+            case PostType.Blog -> new BlogPost();
+            case PostType.Product -> new ProductPost();
+            case PostType.News -> new NewsPost();
             default -> throw new IllegalArgumentException(type + " post type is unknown");
         };
     }

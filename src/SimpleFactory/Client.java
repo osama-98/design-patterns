@@ -1,17 +1,19 @@
 package SimpleFactory;
 
+import SimpleFactory.Modules.PostType;
+
 public class Client {
     public static void main(String[] args) {
         // Blog
-        Post post = PostFactory.createPost("blog");
+        Post post = PostFactory.createPost(PostType.Blog);
         System.out.println(post);
 
         // Product
-        Post product = PostFactory.createPost("product");
+        Post product = PostFactory.createPost(PostType.Product);
         System.out.println(product);
 
         // News
-        Post news = PostFactory.createPost("news");
+        Post news = PostFactory.createPost(PostType.News);
         System.out.println(news);
     }
 }
