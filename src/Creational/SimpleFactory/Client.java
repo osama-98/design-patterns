@@ -1,4 +1,4 @@
-package Ceational.SimpleFactory;
+package Creational.SimpleFactory;
 
 public class Client {
     public static void main(String[] args) {

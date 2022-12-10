@@ -1,6 +1,6 @@
-package Ceational.SimpleFactory.Modules;
+package Creational.SimpleFactory.Modules;
 
-import Ceational.SimpleFactory.Post;
+import Creational.SimpleFactory.Post;
 
 /**
  * Represents a product information post.

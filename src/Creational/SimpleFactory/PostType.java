@@ -1,4 +1,4 @@
-package Ceational.SimpleFactory;
+package Creational.SimpleFactory;
 
 public final class PostType {
     public static final String Blog     = "blog";

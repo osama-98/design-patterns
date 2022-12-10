@@ -1,4 +1,4 @@
-package Ceational.SimpleFactory;
+package Creational.SimpleFactory;
 
 import java.time.LocalDateTime;
 
