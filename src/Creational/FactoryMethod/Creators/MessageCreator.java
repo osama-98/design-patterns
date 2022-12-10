@@ -10,6 +10,7 @@ import Creational.FactoryMethod.Message.Message;
 public abstract class MessageCreator {
     public Message getMessage() {
         Message message = createMessage();
+
         message.addDefaultHeaders();
         message.encrypt();
 
