@@ -6,10 +6,11 @@ package Creational.FactoryMethod.Message;
  */
 public abstract class Message {
 
+    public String headers;
     public abstract String getContent();
 
     public void addDefaultHeaders() {
-        // Adds some default headers
+        this.headers = "headers: {Content-Type: application/json}";
     }
 
     public void encrypt() {
