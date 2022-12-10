@@ -1,6 +1,6 @@
-package SimpleFactory;
+package Ceational.SimpleFactory;
 
-import SimpleFactory.Modules.*;
+import Ceational.SimpleFactory.Modules.*;
 
 /**
  * This class acts as a simple factory for creation of
