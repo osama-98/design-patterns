@@ -1,4 +1,4 @@
-package Creational.FactoryMethod;
+package Creational.FactoryMethod.Creators;
 
 /**
  * Provides implementation for creating JSON messages
