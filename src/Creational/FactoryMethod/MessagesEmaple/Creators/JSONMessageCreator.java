@@ -1,7 +1,7 @@
-package Creational.FactoryMethod.Creators;
+package Creational.FactoryMethod.MessagesEmaple.Creators;
 
-import Creational.FactoryMethod.Message.JSONMessage;
-import Creational.FactoryMethod.Message.Message;
+import Creational.FactoryMethod.MessagesEmaple.Message.JSONMessage;
+import Creational.FactoryMethod.MessagesEmaple.Message.Message;
 
 /**
  * Provides implementation for creating JSON messages

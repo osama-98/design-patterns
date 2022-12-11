@@ -1,7 +1,7 @@
-package Creational.FactoryMethod;
+package Creational.FactoryMethod.MessagesEmaple;
 
-import Creational.FactoryMethod.Creators.*;
-import Creational.FactoryMethod.Message.Message;
+import Creational.FactoryMethod.MessagesEmaple.Creators.*;
+import Creational.FactoryMethod.MessagesEmaple.Message.Message;
 
 public class Client {
 

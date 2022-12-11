@@ -1,4 +1,4 @@
-package Creational.FactoryMethod.Message;
+package Creational.FactoryMethod.MessagesEmaple.Message;
 
 /**
  * This class represents interface for our "product" which is a message

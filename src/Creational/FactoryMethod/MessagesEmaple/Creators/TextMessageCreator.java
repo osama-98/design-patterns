@@ -1,7 +1,7 @@
-package Creational.FactoryMethod.Creators;
+package Creational.FactoryMethod.MessagesEmaple.Creators;
 
-import Creational.FactoryMethod.Message.Message;
-import Creational.FactoryMethod.Message.TextMessage;
+import Creational.FactoryMethod.MessagesEmaple.Message.Message;
+import Creational.FactoryMethod.MessagesEmaple.Message.TextMessage;
 
 /**
  * Provides implementation for creating Text messages

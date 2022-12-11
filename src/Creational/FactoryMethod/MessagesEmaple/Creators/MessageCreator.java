@@ -1,6 +1,6 @@
-package Creational.FactoryMethod.Creators;
+package Creational.FactoryMethod.MessagesEmaple.Creators;
 
-import Creational.FactoryMethod.Message.Message;
+import Creational.FactoryMethod.MessagesEmaple.Message.Message;
 
 /**
  * This is our abstract "creator".

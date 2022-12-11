@@ -1,4 +1,4 @@
-package Creational.FactoryMethod.Message;
+package Creational.FactoryMethod.MessagesEmaple.Message;
 
 import java.util.Arrays;
 
