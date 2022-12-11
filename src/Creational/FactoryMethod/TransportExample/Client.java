@@ -1,8 +1,6 @@
 package Creational.FactoryMethod.TransportExample;
 
-import Creational.FactoryMethod.TransportExample.Creators.Logistics;
-import Creational.FactoryMethod.TransportExample.Creators.RoadLogistics;
-import Creational.FactoryMethod.TransportExample.Creators.ShipLogistics;
+import Creational.FactoryMethod.TransportExample.Creators.*;
 import Creational.FactoryMethod.TransportExample.Transport.Transport;
 
 public class Client {
