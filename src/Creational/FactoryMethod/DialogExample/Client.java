@@ -7,6 +7,9 @@ public class Client {
     public static void main(String[] args) {
         renderButton(new WebDialog());
         renderButton(new WindowsDialog());
+
+        clickButton(new WebDialog());
+        clickButton(new WindowsDialog());
     }
 
     public static void renderButton(Dialog dialog) {
